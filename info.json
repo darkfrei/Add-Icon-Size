@@ -1,0 +1,9 @@
+{
+  "name": "_IconSize",
+  "description": "Add icon_size to all prototypes",
+  "version": "0.0.1",
+  "title": "Add Icon Size",
+  "author": "darkfrei",
+  "dependencies": ["base"],
+  "factorio_version": "0.16"
+}
