@@ -31,6 +31,7 @@ for _, item_type in pairs (item_type_list) do
 	for item_name, item_prot in pairs (data.raw[item_type]) do
     if not item_prot.icon_size then
       item_prot.icon_size = 32
+      log ("Error! " .. item_name .. " hasn't item.icon_size!")
     end
 	end
 end
