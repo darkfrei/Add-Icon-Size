@@ -1,6 +1,6 @@
 {
   "name": "_IconSize",
-  "description": "Add icon_size to all prototypes",
+  "description": "Add icon_size to all item prototypes (if here was no icon_size before). See log file.",
   "version": "0.0.2",
   "title": "Add Icon Size",
   "author": "darkfrei",
