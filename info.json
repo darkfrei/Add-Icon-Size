@@ -1,7 +1,7 @@
 {
   "name": "_IconSize",
   "description": "Add icon_size to all prototypes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Add Icon Size",
   "author": "darkfrei",
   "dependencies": ["base"],
